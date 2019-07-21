@@ -1,0 +1,4 @@
+We are trying to develop models predicting ad click-through rate (CTR).
+Given a user and the page he  is visiting. what is the probability that he (or she) will click on a given ad?
+
+Dataset-https://www.kaggle.com/c/avazu-ctr-prediction/data?source=post_page---------------------------
